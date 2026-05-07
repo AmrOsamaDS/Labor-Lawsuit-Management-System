@@ -25,8 +25,6 @@ Multi-criteria search interface allowing filters by company name, client, or spe
 specific search interface
 ![low4.png](Images/low4.png)
 
-detaled info
-![low5.png](Images/low5.png)
 
 
 ## Tools & Technologies
