@@ -1,5 +1,5 @@
 # ⚖️ Labor Lawsuit Management System
-Project Overview
+## Project Overview
 This project is a specialized Legal Case Management System designed for a law office to organize and track labor-related lawsuits. The system provides a streamlined digital workflow for managing client data, lawsuit details, and critical court dates, moving away from manual filing to an automated, searchable database.
 
 ## Objectives
