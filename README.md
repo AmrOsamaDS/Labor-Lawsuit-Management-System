@@ -13,17 +13,20 @@ Advanced Data Retrieval: Enable quick searching by client name, company, or sess
 
 ## System Screenshots
 
-Main interface featuring quick access to adding new cases and the search/update module.
+### Main interface featuring quick access to adding new cases and the search/update module.
 ![low1.png](Images/low1.png)
 
-Comprehensive entry form capturing client names, case numbers, filing dates, and company details.
+### Comprehensive entry form capturing client names, case numbers, filing dates, and company details.
 ![low2.png](Images/low2.png)
 
-Multi-criteria search interface allowing filters by company name, client, or specific hearing dates.
+### Multi-criteria search interface allowing filters by company name, client, or specific hearing dates.
 ![low3.png](Images/low3.png)
 
-specific search interface
+### specific search interface
 ![low4.png](Images/low4.png)
+
+### detalied information of the search 
+![low5.png](Images/low5.png)
 
 
 
